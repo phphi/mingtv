@@ -1,1 +1,1 @@
-# mingtv.gitHub.io
+这是一个纯IPV6的IPTV源
